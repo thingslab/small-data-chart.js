@@ -1,3 +1,3 @@
-var ctx = document.getElementById("myChart").getContext("2d");
+var pie = document.getElementById("engineering-workforce").getContext("2d");
 
-var myNewChart = new Chart(ctx).PolarArea(polarData);
+var myNewChart = new Chart(pie).Pie(engineeringWorkforce);

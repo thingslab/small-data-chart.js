@@ -1,33 +1,14 @@
-var polarData = [
+var engineeringWorkforce = [
     {
-        value: 300,
-        color:"#F7464A",
+        value: 7,
+        color:"#F00",
         highlight: "#FF5A5E",
-        label: "Red"
+        label: 'Females'
     },
     {
-        value: 50,
-        color: "#46BFBD",
-        highlight: "#5AD3D1",
-        label: "Green"
-    },
-    {
-        value: 100,
-        color: "#FDB45C",
-        highlight: "#FFC870",
-        label: "Yellow"
-    },
-    {
-        value: 40,
-        color: "#949FB1",
-        highlight: "#A8B3C5",
-        label: "Grey"
-    },
-    {
-        value: 120,
-        color: "#4D5360",
-        highlight: "#616774",
-        label: "Dark Grey"
+        value: 93,
+        color: '#0F0',
+        highlight: '#0F8',
+        label: 'Males'
     }
-
 ];
