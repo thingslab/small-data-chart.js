@@ -1,6 +1,4 @@
-var ctx = document.getElementById("myChart").getContext("2d");
-
-var data = [
+var polarData = [
     {
         value: 300,
         color:"#F7464A",
@@ -33,5 +31,3 @@ var data = [
     }
 
 ];
-
-var myNewChart = new Chart(ctx).PolarArea(data);
