@@ -37,6 +37,30 @@ var professionsData = {
             data: [99,99,92,90,7,11,52]
         }
     ]
+};
 
-
+var onlineGames= {
+    labels: ["players","game designers","programmers", "graphic designers"],
+    datasets: [
+        {
+            label: "Women",
+            fillColor: "rgba(220,220,220,0.2)",
+            strokeColor: "rgba(220,220,220,1)",
+            pointColor: "rgba(220,220,220,1)",
+            pointStrokeColor: "#fff",
+            pointHighlightFill: "#fff",
+            pointHighlightStroke: "rgba(220,220,220,1)",
+            data: [45,11,3,60]
+        },
+        {
+            label: "Men",
+            fillColor: "rgba(150,150,150,0.2)",
+            strokeColor: "rgba(150,150,150,1)",
+            pointColor: "rgba(150,150,150,1)",
+            pointStrokeColor: "#fff",
+            pointHighlightFill: "#fff",
+            pointHighlightStroke: "rgba(150,150,150,1)",
+            data: [55,89,97,40]
+        }
+    ]
 };
