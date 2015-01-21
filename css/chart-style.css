@@ -1,8 +1,15 @@
+@import url(http://fonts.googleapis.com/css?family=Lato);
+
 .chart {
     border: solid 2px black;
     border-radius: 10px;
+    width: 300px;
+    padding: 0px 20px;
 }
 
 .chart .text {
-
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Lato', sans-serif;
 }
