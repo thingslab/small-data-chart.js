@@ -6,3 +6,6 @@ var professions = new Chart(line).Line(professionsData);
 
 var bar=document.getElementById("online-games").getContext("2d");
 var online= new Chart(bar).Bar(onlineGames);
+
+var radar=document.getElementById("women").getContext("2d");
+var women= new Chart(radar).Radar(womenData);
