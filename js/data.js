@@ -73,7 +73,7 @@ var womenData=
 
     {
         label: "Women",
-        fillColor: "rgba(217,17,107,1)",
+        fillColor: "rgba(217,17,107,0.2)",
         strokeColor: "rgba(217,17,107,1)",
         pointColor: "rgba(217,17,107,0.5)",
         pointHighlightFill: "rgba(217,17,107,0.2)",
@@ -83,7 +83,7 @@ var womenData=
     },
     {
         label: "Men",
-        fillColor: "rgba(54,23,179,1)",
+        fillColor: "rgba(54,23,179,0.2)",
         strokeColor: "rgba(54,23,179,1)",
         pointColor: "rgba(54,23,179,0.5)",
         pointHighlightFill: "rgba(54,23,179,0.2)",
